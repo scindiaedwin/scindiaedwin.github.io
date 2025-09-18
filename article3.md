@@ -1,8 +1,7 @@
 # 🚀 Introduction to Artificial Intelligence (AI)
 
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)](https://github.com/yourusername/yourrepo/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/scindiaedwin/scindiaedwin.github.io?style=social)](https://github.com/scindiaedwin/scindiaedwin.github.io/stargazers)
 
 Artificial Intelligence (AI) is **changing the world**. From recommending movies on Netflix to helping doctors detect diseases, AI is making machines **think and learn** in ways we never imagined.  
 
@@ -66,8 +65,7 @@ AI is transforming the world:
 
 Here are some beginner-friendly resources:
 
-- [AI for Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)  
-- [Introduction to AI on Coursera](https://www.coursera.org/browse/data-science/ai)  
+- [AI for Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)    
 - [Simple AI Videos on YouTube](https://www.youtube.com/results?search_query=introduction+to+AI)  
 
 ---
@@ -85,4 +83,8 @@ Here are some beginner-friendly resources:
 
 ⭐ **Star, fork, and explore** this repository to learn more about AI and how it’s shaping our world.  
 
+- [⭐ Star this repo](https://github.com/scindiaedwin/scindiaedwin.github.io/stargazers)  
+- [🍴 Fork this repo](https://github.com/scindiaedwin/scindiaedwin.github.io/fork)  
+- [👀 Explore files](https://github.com/scindiaedwin/scindiaedwin.github.io)
+  
 [🔗 Back to top](#-introduction-to-artificial-intelligence-ai)
